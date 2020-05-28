@@ -1,0 +1,7 @@
+﻿                                                                                                                                                      
+# Added by Docker Desktop
+192.168.100.14 host.docker.internal
+192.168.100.14 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal localhost sd.local mailhog.local mysql.local 
+# End of section
